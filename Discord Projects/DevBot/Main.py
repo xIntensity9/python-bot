@@ -197,4 +197,4 @@ async def shutdown(ctx):
 
 
 # DO NOT EDIT THIS THE BOT WILL NOT RUN!!!!!!
-client.run('NjgwNTg4NTI5NzU5NDIwNTU2.Xm1N6g.UIv0wc2VAPGp2CaCBzhcgtErICk')
+client.run('Put your bot token here')
