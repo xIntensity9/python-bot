@@ -1,2 +1,2 @@
 # DevBot
-Discord.py bot testing
+Discord.py bot that has many commands,
