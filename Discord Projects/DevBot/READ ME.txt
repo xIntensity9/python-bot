@@ -1,5 +1,0 @@
-How to run DevBot
-launch ptero.hostbend.net
-cd DiscordProjects
-cd DevBot
-python3 Main.py
